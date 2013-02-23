@@ -25,21 +25,21 @@ $(document).ready(function(){
 	}});
 
 	var BusIcon = L.Icon.extend({options:{
-	    iconUrl: 'images/bus_20x20.png',
+	    iconUrl: 'images/bus.png',
 	    shadowUrl: null,
 	    shadowSize: new L.Point(0,0),
-	    iconSize: new L.Point(20, 20),
-	    iconAnchor: new L.Point(10, 10),
-	    popupAnchor: new L.Point(0,-10)
+	    iconSize: new L.Point(32, 37),
+	    iconAnchor: new L.Point(16, 37),
+	    popupAnchor: new L.Point(-16,-18)
 	}});
 	
 	var TramIcon = L.Icon.extend({options:{
-	    iconUrl: 'images/tram_20x20.png',
+	    iconUrl: 'images/tramway.png',
 	    shadowUrl: null,
 	    shadowSize: new L.Point(0,0),
-	    iconSize: new L.Point(20, 20),
-	    iconAnchor: new L.Point(10,10),
-	    popupAnchor: new L.Point(0,-10)
+	    iconSize: new L.Point(32, 37),
+	    iconAnchor: new L.Point(16, 37),
+	    popupAnchor: new L.Point(0,-18)
 	}});
 	
 	var hIcon = new StationIcon();
