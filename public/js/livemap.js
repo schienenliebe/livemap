@@ -1,17 +1,17 @@
 $(document).ready(function(){
 
-	var cloudmadeUrl = 'http://{s}.tile.cloudmade.com/3a83164a47874169be4cabc2e8b8c449/43782/256/{z}/{x}/{y}.png';
-	var cloudmadeAttribution = '<a href="http://www.ulmapi.de">UlmApi.de</a>, Map data &copy; 2011 OpenStreetMap contributors, Imagery &copy; 2011 CloudMade';
-	var cloudmade = new 	L.TileLayer(
+	var bgUrl = 'http://{s}.www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png';
+	var bgAttribution = '<a href="http://www.schinenliebe.de">Schinenliebe.de</a>, Map data &copy; 2013 OpenStreetMap contributors';
+	var bg = new 	L.TileLayer(
 		cloudmadeUrl, {
 		maxZoom : 18,
-		attribution : cloudmadeAttribution
+		attribution : bgAttribution
 	});
 
 	var map = new L.Map('map', {
 		center : new L.LatLng(48.399976,9.995399),
 		zoom : 13,
-		layers : [ cloudmade ],
+		layers : [ bg ],
 		zoomControl : false
 	});
 	
