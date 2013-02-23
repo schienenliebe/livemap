@@ -1,4 +1,0 @@
-"stop_id","stop_code","stop_name","stop_lon","stop_lat"
-21,"Eifelplatz","Eifelplatz","6.9434608", "50.9232266"
-4,"Mauritiuskirche","Mauritiuskirche","6.9451112","50.9339125"
-1,"Heumarkt","Heumarkt","6.960323","50.9357398"
