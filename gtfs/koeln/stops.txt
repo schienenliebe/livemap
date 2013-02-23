@@ -142,7 +142,7 @@ stop_id,stop_code,stop_name,stop_lon,stop_lat
 710,"","Frechen Rathaus","6.8061437","50.9094324"
 711,"","Frechen Kirche","6.8157791","50.9100638"
 712,"","Frechen Bahnhof","6.823058","50.9115001"
-57,"","Zollstock, Südfriedhof","6.9444663","50.9009219"
+57,"","Zollstock Südfriedhof","6.9444663","50.9009219"
 791,"","Weiden Zentrum","6.8352454","50.9383279"
 241,"","Weiden Schulstraße","6.828639","50.9384025"
 142,"","Mohnweg","6.8554744","50.9379756"
