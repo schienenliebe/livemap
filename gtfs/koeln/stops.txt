@@ -1,254 +1,278 @@
-"stop_id","stop_code","stop_name","stop_lon","stop_lat"
-9001131,"Ulmer Steige (Lehr)","Ulmer Steige","9.9440669","48.435384"
-9001938,"Stauffenbergstraße (Pfuhl)","Stauffenbergstraße","10.030639","48.405658"
-9001933,"Leipheimer Straße (Pfuhl)","Leipheimer Straße","10.045781","48.407023"
-9001934,"Kirchstraße (Pfuhl)","Kirchstraße","10.042286","48.407819"
-9001937,"Platzgasse (Pfuhl)","Platzgasse","10.035506","48.408546"
-9001936,"Altes Rathaus (Pfuhl)","Altes Rathaus","10.039904","48.410251"
-9001939,"Trissinoplatz (Pfuhl)","Trissinoplatz","10.033081","48.406859"
-9001671,"Wasserturm (Donaustetten)","Wasserturm","9.932965","48.331444"
-9002704,"Kalte Herberge (Blaustein)","Kalte Herberge","9.908601","48.418261"
-9002708,"Am Blaugarten (Blaustein)","Am Blaugarten","9.929719","48.410934"
-9002720,"Lindenstraße (Blaustein)","Lindenstraße","9.935130","48.408435"
-9002728,"Bahnhof (Herrlingen)","Bahnhof","9.897774","48.417950"
-9001964,"Glöcklerstraße (Burlafingen)","Glöcklerstraße","10.064980","48.416326"
-9001962,"Dorfplatz (Burlafingen)","Dorfplatz","10.068399","48.415098"
-9001968,"Schule (Burlafingen)","Schule","10.070131","48.412627"
-9001940,"Winterstraße (Pfuhl)","Winterstraße","10.043733","48.411880"
-9001942,"Schulzentrum (Pfuhl)","Schulzentrum","10.053561","48.414209"
-9001961,"Bahnhof (Burlafingen)","Bahnhof","10.069336","48.410799"
-9001903,"Ortsstraße (Offenhausen (Neu-Ulm))","Ortsstraße","10.022648","48.401871"
-9001904,"Grundweg (Offenhausen (Neu-Ulm))","Grundweg","10.023087","48.403549"
-9001906,"Roseggerstraße (Offenhausen (Neu-Ulm))","Roseggerstraße","10.024413","48.401667"
-9001422,"Rathaus (Eggingen b Ulm)","Rathaus","9.878942","48.363922"
-9001421,"Ringinger Straße (Eggingen b Ulm)","Ringinger Straße","9.879769","48.361037"
-9001431,"Allewind (Ermingen)","Allewind","9.892699","48.376577"
-9001432,"Panoramastraße (Ermingen)","Panoramastraße","9.896488","48.377860"
-9001433,"Waldstraße (Ermingen)","Waldstraße","9.897760","48.381906"
-9001739,"Donauklinik (Neu-Ulm)","Donauklinik","9.9934916","48.3932527"
-9002761,"Gasthof Blautal (Arnegg b Ulm)","Gasthof Blautal","9.881317","48.415479"
-9002763,"Bildstöckle (Arnegg b Ulm)","Bildstöckle","9.874052","48.413331"
-9001412,"Ensostraße (Einsingen)","Ensostraße","9.905744","48.352517"
-9001413,"Hirsch (Einsingen)","Hirsch","9.900167","48.352273"
-9001414,"Kirche (Einsingen)","Kirche","9.895140","48.354120"
-9001170,"Edith-Stein-Ring (Jungingen)","Edith-Stein-Ring","9.992875","48.439816"
-9001171,"Margarethe-Steiff-Straße (Jungingen)","Margarethe-Steiff-Straße","9.99635","48.441433"
-9001173,"Auf dem Hart (Jungingen)","Auf dem Hart","9.986691","48.438862"
-9001552,"Firma Rheinzink (Donautal)","Firma Rheinzink","9.925563","48.356118"
-9001551,"Haltepunkt (Donautal)","Haltepunkt","9.940214","48.366234"
-9001550,"Firma Nanz (Donautal)","Firma Nanz","9.944066","48.367272"
-9001555,"Firma Wieland (Donautal)","Firma Wieland","9.944756","48.356394"
-9001554,"Firma UPS (Donautal)","Firma UPS","9.927431","48.353468"
-9001395,"Barbaralinde (Ulm)","Barbaralinde","9.950560","48.378964"
-9001391,"Oberer Kuhberg (Ulm)","Oberer Kuhberg","9.952113","48.381910"
-9001390,"Kuhberg Schulzentrum (Ulm)","Kuhberg Schulzentrum","9.954541","48.383247"
-9001393,"Grimmelfinger Weg (Ulm)","Grimmelfinger Weg","9.953001","48.381722"
-9001392,"Am Hochsträß (Ulm)","Am Hochsträß","9.948766","48.380480"
-9001772,"Danziger Straße (Ludwigsfeld)","Danziger Straße","10.011037","48.370723"
-9001771,"Oberfeld (Ludwigsfeld)","Oberfeld","10.011047","48.363744"
-9001605,"Kapelle (Wiblingen)","Kapelle","9.984128","48.360497"
-9001602,"Alte Siedlung (Wiblingen)","Alte Siedlung","9.983163","48.353841"
-9001601,"Oberer Wirt (Wiblingen)","Oberer Wirt","9.985962","48.356201"
-9001600,"Pranger (Wiblingen)","Pranger","9.988323","48.360362"
-9001608,"Ostermahdweg (Wiblingen)","Ostermahdweg","9.990695","48.365099"
-9001540,"Hans-Lorenser-Straße (Donautal)","Hans-Lorenser-Straße","9.937815","48.348770"
-9001544,"Firma Sanacorp (Donautal)","Firma Sanacorp","9.949367","48.359863"
-9001549,"Firma Merckle/Ratiopharm (Donautal)","Firma Merckle/Ratiopharm","9.938948","48.359796"
-9001382,"Egginger Weg (Ulm)","Egginger Weg","9.964412","48.385485"
-9001383,"Königstraße/Gewerbeschulen (Ulm)","Königstraße/Gewerbeschulen","9.960982","48.384714"
-9001380,"Saarlandstraße (Ulm)","Saarlandstraße","9.970441","48.387980"
-9001381,"Robert-Dick-Weg (Ulm)","Robert-Dick-Weg","9.967248","48.386244"
-9002702,"Galgenbergstraße (Blaustein)","Galgenbergstraße","9.916025","48.414911"
-9002701,"Bahnhof/Rathaus (Blaustein)","Bahnhof/Rathaus","9.918481","48.415503"
-9001166,"Gehrnstraße (Jungingen (Ulm))","Gehrnstraße","9.992305","48.445771"
-9001167,"Donau-Iller-Werkstätten (Jungingen (Ulm))","Donau-Iller-Werkstätten","9.984260","48.447747"
-9001164,"Schwarzenbergstraße (Jungingen (Ulm))","Schwarzenbergstraße","9.986144","48.448747"
-9001165,"Fichtenstraße (Jungingen (Ulm))","Fichtenstraße","9.990996","48.449389"
-9001162,"Albstraße (Jungingen (Ulm))","Albstraße","9.985969","48.434827"
-9001163,"Rathaus (Jungingen (Ulm))","Rathaus","9.986677","48.442753"
-9001160,"Hörvelsinger Weg (Jungingen (Ulm))","Hörvelsinger Weg","9.986220","48.426156"
-9001161,"Franzenhauserweg (Jungingen (Ulm))","Franzenhauserweg","9.985520","48.429076"
-9001768,"Hafnerweg (Ludwigsfeld)","Hafnerweg","10.018063","48.366335"
-9001769,"Reichenberger Straße (Ludwigsfeld)","Reichenberger Straße","10.015240","48.368950"
-9001765,"Hasenweg (Ludwigsfeld)","Hasenweg","10.010679","48.366949"
-9001766,"Katholische Kirche (Ludwigsfeld)","Katholische Kirche","10.013520","48.367292"
-9001767,"Allgäuer Straße (Ludwigsfeld)","Allgäuer Straße","10.013493","48.363893"
-9001574,"IVECO (Donautal)","IVECO","9.929503","48.359837"
-9002710,"Hofstraße (Blaustein)","Hofstraße","9.922946","48.415152"
-9001281,"Stachelbeerweg (Ulm)","Stachelbeerweg","9.956022","48.407526"
-9001280,"Beim Türmle (Ulm)","Beim Türmle","9.956814","48.405774"
-9001025,"Frauenstraße/DRK (Ulm)","Frauenstraße/DRK","9.993108","48.406546"
-9001020,"Karlstraße (Ulm)","Karlstraße","9.987458","48.404247"
-9001594,"Firma Seeberger (Donautal)","Firma Seeberger","9.951307","48.358930"
-9001591,"Am Sandhaken (Donautal)","Am Sandhaken","9.960921","48.365019"
-9001590,"Kastbrücke (Donautal)","Kastbrücke","9.962873","48.361882"
-9001621,"Fischerhauser Weg (Wiblingen)","Fischerhauser Weg","9.976233","48.360475"
-9001620,"Erenlauh (Wiblingen)","Erenlauh","9.971067","48.358459"
-9001349,"Jägerstraße (Ulm)","Jägerstraße","9.955505","48.400102"
-9001561,"Graf-Arco-Straße (Donautal)","Graf-Arco-Straße","9.942264","48.358105"
-9001366,"Beim B'scheid (Ulm)","Beim B'scheid","9.974296","48.401778"
-9001367,"Auf der Gölde (Ulm)","Auf der Gölde","9.967831","48.400583"
-9001360,"Römerplatz (Ulm)","Römerplatz","9.974914","48.390334"
-9001362,"Telefunken (Ulm)","Telefunken","9.971201","48.395312"
-9001101,"Mähringer Straße (Lehr)","Mähringer Straße","9.968244","48.432280"
-9001103,"Junginger Straße (Lehr)","Junginger Straße","9.971616","48.436209"
-9001299,"Sedanstraße (Ulm)","Sedanstraße","9.960368","48.392246"
-9001296,"Neunkirchenweg (Ulm)","Neunkirchenweg","9.959892","48.386351"
-9001297,"Sulzbachweg (Ulm)","Sulzbachweg","9.959671","48.388951"
-9001742,"Dietrich-Kino (Neu-Ulm)","Dietrich-Kino","10.004936","48.383762"
-9001743,"Neue Hochschule (Neu-Ulm)","Neue Hochschule","10.008836","48.379537"
-9001741,"Fachoberschule (Neu-Ulm)","Fachoberschule","10.002673","48.388099"
-9001030,"Kliniken Michelsberg (Ulm)","Kliniken Michelsberg","9.992483","48.411237"
-9001031,"Frauensteige (Ulm)","Frauensteige","9.990412","48.409618"
-9001032,"Schillerhöhe (Ulm)","Schillerhöhe","9.988471","48.407719"
-9001039,"Kienlesberg (Ulm)","Kienlesberg","9.983152","48.405813"
-9001586,"DEUTZ AG (Donautal)","DEUTZ AG","9.933071","48.361606"
-9001634,"Tannenplatz Zentrum (Wiblingen)","Tannenplatz Zentrum","9.972942","48.351347"
-9001635,"Reutlinger Straße (Wiblingen)","Reutlinger Straße","9.969982","48.354619"
-9001632,"Kemptener Straße (Wiblingen)","Kemptener Straße","9.973254","48.346470"
-9001633,"Saulgauer Straße (Wiblingen)","Saulgauer Straße","9.968278","48.348005"
-9001631,"St.-Gallener-Straße (Wiblingen)","St.-Gallener-Straße","9.978673","48.349752"
-9001087,"Egertweg (Ulm)","Egertweg","10.012139","48.425589"
-9001539,"Ernst-Abbe-Straße (Donautal)","Ernst-Abbe-Straße","9.932928","48.350105"
-9001359,"Haßlerstraße (Ulm)","Haßlerstraße","9.978412","48.389648"
-9001351,"Blücherstraße (Ulm)","Blücherstraße","9.973293","48.393828"
-9001350,"Ehinger Tor (Ulm)","Ehinger Tor","9.981128","48.394661"
-9001353,"Magirusstraße (Ulm)","Magirusstraße","9.964216","48.394399"
-9001352,"Westplatz (Ulm)","Westplatz","9.968260","48.394725"
-9001354,"Blautal-Center (Ulm)","Blautal-Center","9.961416","48.400574"
-9001134,"Wendeschleife (Mähringen (Ulm))","Wendeschleife","9.936229","48.437384"
-9001133,"Rathaus (Mähringen (Ulm))","Rathaus","9.940397","48.436180"
-9001132,"Alte Straße (Mähringen (Ulm))","Alte Straße","9.943062","48.435619"
-9001001,"Steinerne Brücke (Ulm)","Steinerne Brücke","9.987659","48.397186"
-9001003,"Rosengasse (Ulm)","Rosengasse","9.996851","48.400416"
-9001002,"Rathaus (Ulm)","Rathaus","9.994687","48.397494"
-9001005,"Haus der Begegnung (Ulm)","Haus der Begegnung","9.997431","48.397641"
-9001004,"Pauluskirche (Ulm)","Pauluskirche","9.995072","48.404784"
-9001006,"Gänsturm (Ulm)","Gänsturm","10.001020","48.398824"
-9001009,"Hafengasse (Ulm)","Hafengasse","9.995957","48.398193"
-9001008,"Hauptbahnhof (Ulm)","Hauptbahnhof","9.984122","48.399375"
-9001346,"Franz-Wiedemeier-Straße (Ulm)","Franz-Wiedemeier-Straße","9.936914","48.398933"
-9001345,"Fünf-Bäume-Weg (Ulm)","Fünf-Bäume-Weg","9.948645","48.396480"
-9001342,"Clarissenstraße (Ulm)","Clarissenstraße","9.953202","48.398970"
-9001343,"Sportzentrum TSG (Ulm)","Sportzentrum TSG","9.944876","48.397896"
-9001340,"Riedwiesenweg (Ulm)","Riedwiesenweg","9.945152","48.401833"
-9001341,"St.-Jakob-Straße (Ulm)","St.-Jakob-Straße","9.950097","48.400497"
-9001015,"Herdbruckerstraße (Ulm)","Herdbruckerstraße","9.995652","48.397117"
-9001010,"Theater (Ulm)","Theater","9.987694","48.401080"
-9001011,"Justizgebäude (Ulm)","Justizgebäude","9.993168","48.402004"
-9001651,"Zollbrücke (Gögglingen)","Zollbrücke","9.941461","48.343084"
-9001652,"Hoher Berg (Gögglingen)","Hoher Berg","9.939152","48.338579"
-9001653,"Riedlenstraße (Gögglingen)","Riedlenstraße","9.936402","48.335022"
-9001102,"Loherstraße (Lehr)","Loherstraße","9.969364","48.432181"
-9001333,"Torstraße (Ulm)","Torstraße","9.951955","48.395158"
-9001332,"Maienweg (Ulm)","Maienweg","9.948654","48.389744"
-9001331,"Auf der Laue (Ulm)","Auf der Laue","9.950000","48.391694"
-9001248,"Hochschule Eselsberg (Ulm)","Hochschule Eselsberg","9.937913","48.418754"
-9001247,"Wilhelm-Runge-Straße (Ulm)","Wilhelm-Runge-Straße","9.943041","48.419872"
-9001246,"Uni West (Ulm)","Uni West","9.947013","48.421342"
-9001245,"Kliniken Wissenschaftsstadt (Ulm)","Kliniken Wissenschaftsstadt","9.950338","48.423580"
-9001244,"Staudingerstraße (Ulm)","Staudingerstraße","9.953331","48.424689"
-9001241,"Botanischer Garten (Ulm)","Botanischer Garten","9.956739","48.424813"
-9001240,"Universität Süd (Ulm)","Universität Süd","9.956195","48.421751"
-9001061,"Albecker Steige (Ulm)","Albecker Steige","10.004199","48.414201"
-9001060,"Safranberg (Ulm)","Safranberg","10.001824","48.412954"
-9001744,"Washingtonallee (Neu-Ulm)","Washingtonallee","10.011299","48.379839"
-9001320,"Krankenhaus Söflingen (Ulm)","Krankenhaus Söflingen","9.948089","48.394947"
-9001321,"Schongauer Weg (Ulm)","Schongauer Weg","9.948327","48.393902"
-9001322,"Leonberger Weg (Ulm)","Leonberger Weg","9.949476","48.391833"
-9001323,"Gleißelstetten (Ulm)","Gleißelstetten","9.947919","48.387970"
-9001324,"Fünf-Bäume-Weg Mitte (Ulm)","Fünf-Bäume-Weg Mitte","9.945038","48.396429"
-9001325,"Maienweg Nord (Ulm)","Maienweg Nord","9.945188","48.395061"
-9001326,"Waidstraße (Ulm)","Waidstraße","9.951601","48.392796"
-9001329,"Oberer Roter Berg (Ulm)","Oberer Roter Berg","9.936555","48.401445"
-9001258,"Sonnenfeld (Ulm)","Sonnenfeld","9.937464","48.414180"
-9001254,"Lise-Meitner-Straße (Ulm)","Lise-Meitner-Straße","9.935725","48.418763"
-9001255,"Heilmeyersteige (Ulm)","Heilmeyersteige","9.950249","48.413725"
-9001256,"Virchowstraße (Ulm)","Virchowstraße","9.945986","48.414030"
-9001257,"Söflinger Weinberge (Ulm)","Söflinger Weinberge","9.941928","48.412291"
-9001251,"Kelternweg (Ulm)","Kelternweg","9.960065","48.413445"
-9001548,"Firma Meiller (Donautal)","Firma Meiller","9.936185","48.361446"
-9001078,"Ludwig-Beck-Straße (Ulm)","Ludwig-Beck-Straße","10.007185","48.422395"
-9001079,"Eichenplatz (Ulm)","Eichenplatz","10.004075","48.420228"
-9001070,"Ostpreußenweg (Ulm)","Ostpreußenweg","10.031670","48.433914"
-9001072,"Mecklenburgweg (Ulm)","Mecklenburgweg","10.022893","48.434271"
-9001073,"Thüringenweg (Ulm)","Thüringenweg","10.019616","48.433275"
-9001074,"Haslacher Weg (Ulm)","Haslacher Weg","10.013839","48.430206"
-9001672,"Illerkirchberger Straße (Donaustetten)","Illerkirchberger Straße","9.932397","48.328400"
-9001311,"Königstraße (Ulm)","Königstraße","9.961139","48.394470"
-9001310,"Sonnenstraße (Ulm)","Sonnenstraße","9.957697","48.394580"
-9001864,"Mutschler (Neu-Ulm)","Mutschler","10.016584","48.395774"
-9001261,"Traminerweg (Ulm)","Traminerweg","9.957002","48.411483"
-9001260,"Ruländerweg (Ulm)","Ruländerweg","9.955405","48.409167"
-9001265,"Veltlinerweg (Ulm)","Veltlinerweg","9.950257","48.409831"
-9001266,"Ehrensteiner Feld (Ulm)","Ehrensteiner Feld","9.948108","48.411188"
-9001044,"Neuer Friedhof (Ulm)","Neuer Friedhof","9.986575","48.415883"
-9001046,"Wilhelmsburgkaserne (Ulm)","Wilhelmsburgkaserne","9.984396","48.417727"
-9001049,"Congress Centrum (Ulm)","Congress Centrum","10.003823","48.401273"
-9001048,"Örlinger Straße (Ulm)","Örlinger Straße","10.001717","48.408863"
-9001232,"Lehrer Tal (Ulm)","Lehrer Tal","9.976102","48.406529"
-9001339,"Am Roten Berg (Ulm)","Am Roten Berg","9.940527","48.400774"
-9001300,"Söflingen (Ulm)","Söflingen","9.955071","48.394943"
-9001301,"Ottiliengasse (Ulm)","Ottiliengasse","9.955535","48.396666"
-9001871,"Lessingstraße (Neu-Ulm)","Lessingstraße","10.023390","48.396415"
-9001052,"Donaustadion (Ulm)","Donaustadion","10.007486","48.404856"
-9001053,"Wohnpark Friedrichsau (Ulm)","Wohnpark Friedrichsau","10.008947","48.408386"
-9001050,"Willy-Brandt-Platz (Ulm)","Willy-Brandt-Platz","10.000257","48.402608"
-9001051,"Staufenring (Ulm)","Staufenring","10.004338","48.403427"
-9001054,"Donauhalle (Ulm)","Donauhalle","10.010858","48.411418"
-9001058,"Ostplatz (Ulm)","Ostplatz","10.001079","48.405946"
-9001059,"Steinhövelstraße (Ulm)","Steinhövelstraße","10.004140","48.410506"
-9001451,"Kirche Harthausen (Ulm)","Kirche Harthausen","9.914038","48.390726"
-9001249,"Science Park II (Ulm)","Science Park II","9.937291","48.424578"
-9001202,"Multscherschule (Ulm)","Multscherschule","9.967632","48.408607"
-9001201,"Fort Unterer Eselsberg (Ulm)","Fort Unterer Eselsberg","9.965445","48.411503"
-9001200,"Eselsberg Hasenkopf (Ulm)","Eselsberg Hasenkopf","9.963178","48.414516"
-9001736,"Wiley-Club (Neu-Ulm)","Wiley-Club","10.007759","48.381067"
-9001735,"Marlene-Dietrich-Straße (Neu-Ulm)","Marlene-Dietrich-Straße","10.009517","48.384648"
-9001734,"Bradleystraße (Neu-Ulm)","Bradleystraße","10.011820","48.385725"
-9001733,"Riedstraße (Neu-Ulm)","Riedstraße","10.010918","48.387874"
-9001732,"Escheugraben (Neu-Ulm)","Escheugraben","10.005990","48.387908"
-9001731,"Steubenstraße (Neu-Ulm)","Steubenstraße","10.007761","48.390051"
-9001210,"Burgunderweg (Ulm)","Burgunderweg","9.961517","48.408820"
-9001218,"Lupferbrücke (Ulm)","Lupferbrücke","9.956813","48.403589"
-9001504,"Maybachstraße (Donautal)","Maybachstraße","9.946412","48.361299"
-9001506,"Benzstraße (Donautal)","Benzstraße","9.942581","48.366520"
-9001507,"Boschstraße (Donautal)","Boschstraße","9.954285","48.371010"
-9001500,"Steinbeisstraße (Donautal)","Steinbeisstraße","9.953350","48.368617"
-9001501,"Liststraße (Donautal)","Liststraße","9.949306","48.369639"
-9001502,"Daimlerstraße (Donautal)","Daimlerstraße","9.952898","48.366813"
-9001503,"Heuweg (Donautal)","Heuweg","9.951967","48.364653"
-9001724,"Memminger Straße (Neu-Ulm)","Memminger Straße","10.003938","48.385156"
-9001725,"Edisoncenter (Neu-Ulm)","Edisoncenter","10.006765","48.379277"
-9001727,"Wiley-Süd (Neu-Ulm)","Wiley-Süd","10.010568","48.376357"
-9001723,"Gartenstraße (Neu-Ulm)","Gartenstraße","9.999847","48.392755"
-9001729,"Meininger Allee (Neu-Ulm)","Meininger Allee","10.008348","48.395163"
-9001528,"Gasthof Donautal (Donautal)","Gasthof Donautal","9.955523","48.375119"
-9001225,"Bleicher Hag (Ulm)","Bleicher Hag","9.971837","48.405972"
-9001220,"Bahnhof Söflingen (Ulm)","Bahnhof Söflingen","9.958621","48.402765"
-9001222,"Beringerbrücke (Ulm)","Beringerbrücke","9.966423","48.404687"
-9001081,"Eichberg (Ulm)","Eichberg","10.005493","48.422967"
-9001080,"Eugen-Bolz-Straße (Ulm)","Eugen-Bolz-Straße","10.017764","48.420368"
-9001083,"Alfred-Delp-Weg (Ulm)","Alfred-Delp-Weg","10.014172","48.423206"
-9001082,"Eichberg Nord (Ulm)","Eichberg Nord","10.006929","48.425860"
-9001532,"Siemensstraße (Donautal)","Siemensstraße","9.954622","48.362284"
-9001534,"Voithstraße (Donautal)","Voithstraße","9.956191","48.367523"
-9001404,"Erbacher Straße (Grimmelfingen)","Erbacher Straße","9.940508","48.366825"
-9001401,"Häberlinweg (Grimmelfingen)","Häberlinweg","9.941287","48.373203"
-9001400,"Rathausstraße (Grimmelfingen)","Rathausstraße","9.936106","48.371852"
-9001403,"Eisenbahnstraße (Grimmelfingen)","Eisenbahnstraße","9.937022","48.370271"
-9001710,"Rathaus (Neu-Ulm)","Rathaus","10.000746","48.395202"
-9001713,"Augsburger Tor (Neu-Ulm)","Augsburger Tor","10.004664","48.398055"
-9001714,"Kasernstraße (Neu-Ulm)","Kasernstraße","10.006785","48.396705"
-9001719,"Waldeck (Neu-Ulm)","Waldeck","10.009979","48.394330"
-9001097,"Neutorstraße (Ulm)","Neutorstraße","9.986161","48.402846"
-9001708,"Petrusplatz (Neu-Ulm)","Petrusplatz","9.998290","48.394612"
-9001706,"Schützenstraße (Neu-Ulm)","Schützenstraße","9.997610","48.393683"
-9001707,"Donaucenter (Neu-Ulm)","Donaucenter","9.997043","48.394344"
-9001704,"Illerbrücke (Neu-Ulm)","Illerbrücke","9.989695","48.372680"
-9001705,"Amtsgericht (Neu-Ulm)","Amtsgericht","9.994522","48.391803"
-9001702,"Atlantis (Neu-Ulm)","Atlantis","9.987088","48.385149"
-9001703,"Jakobsruhe (Neu-Ulm)","Jakobsruhe","9.989909","48.381644"
-9001700,"ZUP (Neu-Ulm)","ZUP","10.003129","48.392097"
-9001701,"Donaubad (Neu-Ulm)","Donaubad","9.988694","48.388616"
-9001000,"Zentraler Omnibusbahnhof (Ulm)","ZOB","9.984413","48.398329"
+stop_id,stop_location_type,stop_parent_station,stop_code,stop_desc,stop_lat,stop_lon,stop_name,stop_timezone,stop_url,stop_wheelchair_boarding,stop_zone_id,stop_agency_id
+11509,0,,,,6.9434608,50.9232266,Eifelplatz,,,0,,1
+11113,0,,,,6.9451112,50.9339125,Mauritiuskirche,,,0,,1
+13701,0,,,,6.8347336,50.9428614,Lövenich,,,0,,1
+11110,0,,,,6.960323,50.9357398,Heumarkt,,,0,,1
+11909,0,,,,6.9714055,50.9380881,Deutzer Freiheit,,,0,,1
+18510,0,,,,7.0424136,50.942619,Kalk Friedhof,,,0,,1
+18511,0,,,,7.0486882,50.9442332,Merheim,,,0,,1
+19401,0,,,,7.0411943,50.9762147,Köln-Holweide,,,0,,1
+19713,0,,,,7.0147516,50.9750425,Mülheim - Berliner Straße,,,0,,1
+53412,0,,,,6.9209363,50.7942174,Walberberg,,,0,,1
+84311,0,,,,6.9003559,50.8131125,Badorf,,,0,,1
+83611,0,,,,6.9036188,50.8941086,Efferen,,,0,,1
+13221,0,,,,6.9192931,50.9080131,Klettenbergpark,,,0,,1
+13112,0,,,,6.9301528,50.9182254,Arnulfstraße,,,0,,1
+11611,0,,,,6.9323001,50.9355637,Moltkestraße,,,0,,1
+13011,0,,,,6.9254902,50.9366588,Universitätsstraße,,,0,,1
+13011,0,,,,6.9242529,50.9366838,Universitätsstraße,,,0,,1
+11611,0,,,,6.9330107,50.9365011,Moltkestraße,,,0,,1
+31614,0,,,,7.136843,50.9608536,Frankenforst,,,,,1
+31613,0,,,,7.1300081,50.9568241,Kippekausen,,,,,1
+11610,0,,,,6.93975,50.9361981,Rudolfplatz,,,0,,1
+11410,0,,,,6.9656608,50.922458,Ubierring,,,0,,1
+13211,0,,,,6.923224,50.9117164,Sülzgürtel,,,0,,1
+13113,0,,,,6.9270383,50.9153799,Sülzburgstraße,,,0,,1
+13111,0,,,,6.9334577,50.9214148,Weißhausstraße,,,0,,1
+11514,0,,,,6.9368942,50.9246171,Eifelwall,,,0,,1
+13121,0,,,,6.9308577,50.9258137,Universität,,,0,,1
+11512,0,,,,6.9401662,50.9307962,Zülpicher Platz,,,0,,1
+84501,0,,,,6.8885838,50.8383454,Kierberg,,,0,,1
+17203,0,,,,7.0447099,50.9103163,Köln Airport-Businesspark,,,,,1
+16101,0,,,,6.8977987,51.0211285,Köln-Chorweiler,,,0,,1
+16701,0,,,,6.8813655,51.0375531,Köln-Blumenberg,,,0,,1
+14112,0,,,,6.9236508,50.957074,Nußbaumerstraße,,,0,,1
+14111,0,,,,6.9215922,50.954966,Subbelrather Straße / Gürtel,,,0,,1
+14021,0,,,,6.9281587,50.9504286,Gutenbergstraße,,,0,,1
+13421,0,,,,6.9108201,50.9396469,Oskar-Jäger-Straße / Gürtel,,,0,,1
+13012,0,,,,6.9165894,50.9367511,Melaten,,,0,,1
+11710,0,,,,6.9400113,50.9405843,Friesenplatz,,,0,,1
+11810,0,,,,6.9590839,50.9507856,Ebertplatz,,,0,,1
+11809,0,,,,6.9644348,50.9541325,Reichenspergerplatz,,,0,,1
+15112,0,,,,6.9809837,50.9624144,Boltensternstraße,,,0,,1
+15113,0,,,,6.9877723,50.9660237,Slabystraße,,,0,,1
+15111,0,,,,6.9745125,50.9579926,Zoo/Flora,,,0,,1
+31513,0,,,,7.1493854,50.9626206,Kölner Straße,,,0,,1
+14611,0,,,,6.8728372,50.9693753,Bocklemünd,,,,,1
+14612,0,,,,6.8702057,50.9716538,Schaffrathsgasse,,,,,1
+11701,0,,,,6.9332108,50.9435048,Hans-Böckler-Platz / Bahnhof West,,,0,,1
+11910,0,,,,6.9763699,50.9327911,Suevenstraße,,,0,,1
+11901,0,,,,6.9784049,50.9391525,Bahnhof Deutz / Köln Arena,,,0,,1
+19711,0,,,,7.0067891,50.9662686,Keupstraße,,,0,,1
+19712,0,,,,7.0113124,50.9703603,Von-Sparr-Straße,,,,,1
+19612,0,,,,7.0226678,50.980661,Im Weidenbruch,,,0,,1
+19613,0,,,,7.0302445,50.9893534,Am Emberg,,,,,1
+19614,0,,,,7.0374221,50.9961996,Leuchterstraße,,,0,,1
+23111,0,,,,7.0444791,51.0188107,Schlebusch,,,0,,1
+15121,0,,,,6.9690527,50.9708333,Amsterdamer Straße / Gürtel,,,0,,1
+15011,0,,,,6.9514272,50.972334,Neusser Straße/Gürtel,,,0,,1
+14012,0,,,,6.92029,50.948321,Körnerstraße,,,0,,1
+14011,0,,,,6.9259056,50.9460194,Piusstraße,,,0,,1
+11918,0,,,,6.9798663,50.9238227,Poller Kirchweg,,,0,,1
+11909,0,,,,6.9709507,50.9359159,Deutzer Freiheit,,,0,,1
+11917,0,,,,6.9744825,50.9287869,Drehbrücke,,,0,,1
+14212,0,,,,6.9101215,50.9543778,Leyendeckerstraße,,,0,,1
+17311,0,,,,7.0591587,50.8848648,Porz Markt,,,0,,1
+13412,0,,,,6.8999317,50.9372081,Maarweg,,,0,,1
+13414,0,,,,6.8895754,50.9374557,Eupener Straße,,,0,,1
+13413,0,,,,6.8944537,50.9373098,Clarenbachstift,,,0,,1
+14511,0,,,,6.8849729,50.965024,Wolffsohnstraße,,,0,,1
+14221,0,,,,6.9127151,50.9447574,Weinsbergstraße / Gürtel,,,0,,1
+14671,0,,,,6.8711877,50.9758798,Ollenhauerring,,,,,1
+11901,0,,,,6.9778082,50.9397509,Bahnhof Deutz,,,0,,1
+16201,0,,,,6.8931731,51.014128,Köln Volkhovener Weg,,,0,,1
+15713,0,,,,6.9553571,51.0118627,Fordwerke Mitte,,,0,,1
+15712,0,,,,6.9553434,51.0059474,Fordwerke Süd,,,0,,1
+15714,0,,,,6.9553507,51.0172334,Fordwerke Nord,,,0,,1
+17113,0,,,,7.031778,50.8995732,Gilgaustraße,,,0,,1
+17113,0,,,,7.0306515,50.8996089,Gilgaustraße,,,0,,1
+17111,0,,,,7.0147553,50.906748,"Westhoven, Kölner Straße",,,0,,1
+17112,0,,,,7.0253223,50.9014346,Westhoven Berliner Straße,,,0,,1
+17112,0,,,,7.0258322,50.9012292,Westhoven Berliner Straße,,,0,,1
+92301,0,,,,6.8379428,51.0773846,Dormagen Bayerwerk,,,,,1
+11610,0,,,,6.9400951,50.9356947,Rudolfplatz,,,0,,1
+11511,0,,,,6.9421476,50.928975,Barbarossaplatz,,,0,,1
+11510,0,,,,6.945806,50.9266343,Eifelstraße,,,0,,1
+11412,0,,,,6.9517926,50.9241245,Ulrepforte,,,0,,1
+13707,0,,,,6.8446444,50.9381553,Bahnstraße,,,0,,1
+13411,0,,,,6.9094181,50.9369728,Aachener Straße/Gürtel,,,0,,1
+13411,0,,,,6.9079786,50.9370148,Aachener Straße/Gürtel,,,0,,1
+13411,0,,,,6.9087155,50.9375075,Aachener Straße/Gürtel,,,0,,1
+13411,0,,,,6.908372,50.9366452,Aachener Straße/Gürtel,,,0,,1
+13311,0,,,,6.9086947,50.9281722,Dürener Straße/Gürtel,,,0,,1
+18712,0,,,,7.0753787,50.9215749,Porzer Straße,,,0,,1
+15012,0,,,,6.9537868,50.9642618,Florastraße,,,0,,1
+17310,0,,,,7.0559921,50.89194,Steinstraße,,,,,1
+11511,0,,,,6.9432332,50.929065,Barbarossaplatz,,,0,,1
+19312,0,,,,7.0250953,50.957931,Buchheim Herler Straße,,,0,,1
+13217,0,,,,6.9071464,50.9171353,Sülz Hermeskeiler Platz,,,0,,1
+19201,0,,,,7.0123265,50.9569237,Bahnhof Mülheim,,,,,1
+16110,0,,,,6.9071309,51.0116361,Heimersdorf,,,0,,1
+15510,0,,,,6.9203062,50.9951874,Meerfeldstraße,,,0,,1
+15612,0,,,,6.9328185,50.9939839,Altonaer Platz,,,0,,1
+15611,0,,,,6.9411294,50.9919891,Wilhelm-Sollmann-Straße,,,0,,1
+15411,0,,,,6.9555085,50.9955187,Niehl,,,0,,1
+15711,0,,,,6.9552444,51.0022082,Geestemünder Straße,,,0,,1
+14022,0,,,,6.9248695,50.951928,Liebigstraße,,,0,,1
+12011,0,,,,6.9413927,50.9165317,Pohligstraße,,,0,,1
+19313,0,,,,7.0309015,50.9612014,Wichheimer Straße,,,0,,1
+19411,0,,,,7.0389788,50.9668489,Vischeringstraße,,,0,,1
+19412,0,,,,7.0447228,50.9678755,Maria-Himmelfahrt-Straße,,,0,,1
+13512,0,,,,6.8777541,50.9369649,Rhein Energie Stadion,,,0,,1
+15120,0,,,,6.9685034,50.9636132,Kinderkrankenhaus,,,0,,1
+15413,0,,,,6.9614051,50.9851972,Niehl Sebastianstraße,,,0,,1
+17114,0,,,,7.0473877,50.8970602,Ensen Kloster,,,0,,1
+15414,0,,,,6.9688305,50.9773958,Nesselrodestraße,,,0,,1
+17202,0,,,,7.0576899,50.8952875,Köln Steinstraße,,,,,1
+15714,0,,,,6.9553672,51.0180671,Fordwerke Nord,,,,,1
+16511,0,,,,6.9479872,51.0281255,Merkenich,,,0,,1
+13911,0,,,,6.877153,50.9200651,Stüttgenhof,,,0,,1
+13313,0,,,,6.8990621,50.9261092,Brahmsstraße,,,,,1
+19413,0,,,,7.0552686,50.9694914,Neufelder Straße/Krankenhaus Holweide,,,0,,1
+19510,0,,,,7.0644068,50.9717675,Dellbrück Mauspfad,,,0,,1
+11916,0,,,,6.9721569,50.9308435,Severinsbrücke,,,0,,1
+31514,0,,,,7.1424387,50.9632496,Neuenweg,,,,,1
+31512,0,,,,7.1562891,50.9629684,Im Hoppenkamp,,,0,,1
+31515,0,,,,7.1613772,50.963807,Bensberg U,,,0,,1
+11610,0,,,,6.938996,50.9364011,Rudolfplatz,,,0,,1
+11801,0,,,,6.9516121,50.948751,Hansaring,,,0,,1
+14512,0,,,,6.8785059,50.9674606,Westfriedhof,,,0,,1
+31202,0,,,,7.1035484,50.9847913,Duckterath,,,0,,1
+38102,0,,,,7.1585629,50.8988441,Rösrath-Stümpen,,,0,,1
+12015,0,,,,6.9420714,50.9053534,Zollstockgürtel,,,,,1
+12013,0,,,,6.9413365,50.9098278,Gottesweg,,,0,,1
+11512,0,,,,6.9406314,50.9313812,Zülpicher Platz,,,0,,1
+11112,0,,,,6.9499566,50.9317732,Poststraße,,,0,,1
+13702,0,,,,6.8160574,50.9404526,Weiden West,,,0,,1
+11952,0,,,,6.9807599,50.9506732,Thermalbad,,,0,,1
+18010,0,,,,6.9986343,50.9375349,Kalk Post,,,0,,1
+18110,0,,,,7.0222891,50.9416014,Fuldaer Straße,,,0,,1
+18011,0,,,,7.0087446,50.9389426,Kalk Kapelle,,,0,,1
+18111,0,,,,7.0301368,50.9417401,Höhenberg Frankfurter Straße,,,0,,1
+18211,0,,,,7.0213434,50.9327817,Vingst,,,,,1
+15312,0,,,,6.9463636,50.9856627,Scheibenstraße,,,0,,1
+17014,0,,,,7.0002802,50.9147331,Baumschulenweg,,,,,1
+13121,0,,,,6.9307287,50.9260055,Universität,,,0,,1
+11513,0,,,,6.935896,50.9283145,Dasselstraße/Bf Süd,,,0,,1
+13211,0,,,,6.923071,50.9127119,Sülzgürtel,,,0,,1
+13213,0,,,,6.9204188,50.9145173,Berrenrather Straße,,,0,,1
+13214,0,,,,6.9178329,50.9163726,Euskirchener Straße,,,0,,1
+13214,0,,,,6.916945,50.9172606,Euskirchener Straße,,,0,,1
+13216,0,,,,6.9102546,50.9191306,Mommsenstraße,,,0,,1
+11201,0,,,,6.9572211,50.9417279,Dom/Hbf,,,0,,1
+13215,0,,,,6.914924,50.9207998,Zülpicher Straße / Gürtel,,,0,,1
+13215,0,,,,6.9155942,50.919736,Zülpicher Straße / Gürtel,,,0,,1
+13310,0,,,,6.9078157,50.9317283,Wüllnerstraße,,,0,,1
+11111,0,,,,6.9477566,50.9357815,Neumarkt,,,0,,1
+13321,0,,,,6.91204,50.9240244,Gleueler Straße / Gürtel,,,0,,1
+15512,0,,,,6.9113259,50.9955892,Longerich Friedhof,,,,,1
+15511,0,,,,6.9141538,50.9961827,Longericher Straße,,,0,,1
+17614,0,,,,7.0600914,50.8743166,Rosenhügel,,,0,,1
+11712,0,,,,6.9422527,50.9445512,Christophstraße / Mediapark,,,0,,1
+15222,0,,,,6.9337865,50.9645781,Escher Straße,,,0,,1
+18001,0,,,,6.9970539,50.9358419,Köln Trimbornstraße,,,0,,1
+11111,0,,,,6.9469742,50.9363304,Neumarkt,,,0,,1
+11912,0,,,,6.9819912,50.94349,Koelnmesse,,,0,,1
+15013,0,,,,6.9546952,50.9592982,Lohsestraße,,,0,,1
+15311,0,,,,6.948726,50.9784395,Mollwitzstraße,,,0,,1
+11411,0,,,,6.9604343,50.9212571,Chlodwigplatz,,,0,,1
+15613,0,,,,6.9255022,50.9946677,Herforder Straße,,,0,,1
+19615,0,,,,7.0421957,51.0011229,Odenthaler Straße,,,0,,1
+19615,0,,,,7.0424409,51.001404,Odenthaler Straße,,,0,,1
+54801,0,,,,7.114633,50.8268595,Spich,,,0,,1
+19401,0,,,,7.0411786,50.9762551,Köln-Holweide,,,0,,1
+82410,0,,,,6.8020743,50.9082693,Frechen Mühlengasse,,,0,,1
+82411,0,,,,6.8061437,50.9094324,Frechen Rathaus,,,0,,1
+82412,0,,,,6.8157791,50.9100638,Frechen Kirche,,,0,,1
+82413,0,,,,6.823058,50.9115001,Frechen Bahnhof,,,0,,1
+12016,0,,,,6.9444663,50.9009219,"Zollstock, Südfriedhof",,,,,1
+18511,0,,,,7.0477351,50.9439716,Merheim,,,0,,1
+13702,0,,,,6.8148326,50.9407623,Köln-Weiden West,,,0,,1
+13780,0,,,,6.8352454,50.9383279,Weiden Zentrum,,,0,,1
+13709,0,,,,6.828639,50.9384025,Weiden Schulstraße,,,0,,1
+13706,0,,,,6.8554744,50.9379756,Mohnweg,,,0,,1
+13611,0,,,,6.8687053,50.9376586,Junkersdorf,,,0,,1
+13511,0,,,,6.8815122,50.9377132,Alter Militärring,,,0,,1
+19411,0,,,,7.0378198,50.9661907,Vischeringstraße,,,0,,1
+14451,0,,,,6.8981472,50.9775119,Alter Flughafen Butzweilerhof,,,0,,1
+11209,0,,,,6.9507033,50.9412253,Appellhofplatz,,,,,1
+14479,0,,,,6.8883871,50.9846639,Sparkasse Am Butzweilerhof,,,0,,1
+21301,0,,,,6.9634051,51.0641873,Leverkusen-Rheindorf,,,0,,1
+21101,0,,,,6.9914154,51.0318723,Leverkusen Mitte,,,0,,1
+22201,0,,,,6.9878072,51.0462689,Leverkusen-Küppersteg,,,0,,1
+18401,0,,,,7.0518546,50.9154072,Köln Frankfurter Straße,,,,,1
+14312,0,,,,6.8935071,50.9608565,Akazienweg,,,0,,1
+12012,0,,,,6.9408341,50.9129423,Herthastraße,,,0,,1
+12012,0,,,,6.9407259,50.9129642,Herthastraße,,,0,,1
+13512,0,,,,6.8747075,50.9376041,Rheinenergie-Stadion,,,0,,1
+17015,0,,,,6.9860916,50.9199536,Raiffeisenstraße,,,0,,1
+13215,0,,,,6.9158729,50.9205121,Zülpicher Straße / Gürtel,,,0,,1
+13215,0,,,,6.9145854,50.9202111,Zülpicher Straße / Gürtel,,,0,,1
+13122,0,,,,6.9273152,50.9241202,Weyertal,,,0,,1
+13122,0,,,,6.9266553,50.9238463,Weyertal,,,0,,1
+13123,0,,,,6.9215216,50.9221657,Lindenburg,,,0,,1
+13123,0,,,,6.922058,50.9224227,Lindenburg,,,0,,1
+13780,0,,,,6.8352385,50.9381258,Weiden Zentrum (EKC),,,0,,1
+14464,0,,,,6.8939813,50.9821678,IKEA Am Butzweilerhof,,,0,,1
+13702,0,,,,6.815686,50.9402284,Weiden-West,,,0,,1
+19201,0,,,,7.0124058,50.9569581,U-Bahn Haltestelle Bahnhof Mülheim,,,0,,1
+19511,0,,,,7.0745142,50.9745917,Dellbrück Hauptstraße,,,0,,1
+15121,0,,,,6.969094,50.9708416,Amsterdamer Straße / Gürtel,,,0,,1
+15011,0,,,,6.9512323,50.9723281,Neusser Straße/Gürtel,,,0,,1
+11514,0,,,,6.9368128,50.9246466,Eifelwall,,,0,,1
+14221,0,,,,6.9127821,50.9452641,Weinsbergstraße / Gürtel,,,,,1
+11311,0,,,,6.9577079,50.9293001,Severinstraße,,,0,,1
+82101,0,,,,6.7785475,50.9365341,Frechen-Königsdorf,,,0,,1
+92301,0,,,,6.8385742,51.0763457,Dormagen Bayerwerk,,,,,1
+11110,0,,,,6.960314,50.9357474,Heumarkt,,,0,,1
+11110,0,,,,6.9603096,50.935747,Heumarkt,,,0,,1
+13211,0,,,,6.9233192,50.9116708,Sülzgürtel,,,0,,1
+16101,0,,,,6.8980399,51.0210596,Chorweiler,,,0,,1
+19413,0,,,,7.0558715,50.9696925,Neufelder Straße/Krankenhaus Holweide,,,0,,1
+19511,0,,,,7.07515,50.9750609,Dellbrück Hauptstraße,,,0,,1
+19510,0,,,,7.0655605,50.9720454,Dellbrück Mauspfad,,,0,,1
+19512,0,,,,7.0855175,50.9780381,Thielenbruch,,,0,,1
+19313,0,,,,7.0316426,50.9618343,Wichheimer Straße,,,0,,1
+19211,0,,,,7.0041676,50.9617267,Wiener Platz,,,0,,1
+11209,0,,,,6.9505873,50.9394966,Appellhofplatz,,,0,,1
+11111,0,,,,6.9490133,50.9355157,Neumarkt,,,0,,1
+13112,0,,,,6.9301369,50.918342,Arnulfstraße,,,0,,1
+16701,0,,,,6.881388,51.0375899,Köln-Blumenberg,,,0,,1
+16201,0,,,,6.8932294,51.0141197,Köln Volkhovener Weg,,,0,,1
+13113,0,,,,6.9271411,50.9153488,Sülzburgstraße,,,0,,1
+13211,0,,,,6.9231745,50.9127829,Sülzgürtel,,,0,,1
+84111,0,,,,6.8983161,50.8224483,Brühl Süd,,,0,,1
+13708,0,,,,6.8352382,50.9381669,Weiden Zentrum,,,0,,1
+18412,0,,,,7.053817,50.9271186,Autobahn (Stadtbahn),,,,,1
+16101,0,,,,6.8978557,51.0211182,Köln-Chorweiler,,,0,,1
+15201,0,,,,6.9412531,50.968559,Köln-Geldernstraße/Parkgürtel,,,0,,1
+15201,0,,,,6.9414207,50.9685676,Köln-Geldernstraße/Parkgürtel,,,0,,1
+18462,0,,,,7.0533194,50.9272609,Autobahn,,,,,1
+18411,0,,,,7.0417481,50.9292179,Ostheim,,,0,,1
+17013,0,,,,6.9928365,50.9160131,Poll Salmstraße,,,0,,1
+17310,0,,,,7.0565224,50.8914928,Steinstraße,,,,,1
+19311,0,,,,7.0141092,50.9532224,Frankfurter Straße,,,0,,1
+18401,0,,,,7.0508867,50.9153753,Köln Frankfurter Straße,,,0,,1
+82101,0,,,,6.7781746,50.9365252,Frechen-Königsdorf,,,0,,1
+18610,0,,,,7.0731805,50.9477431,Flehbachstraße,,,0,,1
+18611,0,,,,7.0782896,50.9488157,Brück Mauspfad,,,0,,1
+18711,0,,,,7.0667895,50.9236538,Steinweg,,,0,,1
+18712,0,,,,7.0748924,50.921684,Porzer Straße,,,0,,1
+11801,0,,,,6.9525565,50.9490632,Köln Hansaring,,,0,,1
+11801,0,,,,6.9527138,50.9491115,Köln Hansaring,,,0,,1
+13501,0,,,,6.8883396,50.9483601,Köln-Müngersdorf/Technologiepark,,,0,,1
+13501,0,,,,6.8881406,50.9484384,Köln-Müngersdorf/Technologiepark,,,0,,1
+19901,0,,,,6.9964975,51.0114275,Bayerwerk,,,0,,1
+15510,0,,,,6.9216231,50.9949845,Meerfeldstraße,,,0,,1
+14310,0,,,,6.9027007,50.9568275,Äußere Kanalstraße,,,0,,1
+14113,0,,,,6.9182798,50.9587151,Lenauplatz,,,0,,1
+14412,0,,,,6.9047039,50.9739804,Rektor-Klein-Straße,,,0,,1
+14212,0,,,,6.9100912,50.954372,Leyendeckerstraße,,,0,,1
+15121,0,,,,6.9692093,50.9708593,Amsterdamer Straße / Gürtel,,,0,,1
+11113,0,,,,6.9450441,50.9345128,Mauritiuskirche,,,0,,1
+12011,0,,,,6.941511,50.9165142,Pohligstraße,,,0,,1
+55101,0,,,,7.2029922,50.793213,Siegburg Bahnhof,,,0,,1
+14022,0,,,,6.9249167,50.9519575,Liebigstraße,,,0,,1
+12410,0,,,,6.9775706,50.9071328,Bayenthalgürtel,,,,,1
+12411,0,,,,6.9848776,50.8997852,Heinrich-Lübke-Ufer,,,,,1
+12211,0,,,,6.9718957,50.9143478,Schönhauser Straße,,,0,,1
+14211,0,,,,6.9164635,50.9499404,Venloer Straße / Gürtel,,,0,,1
+14211,0,,,,6.916082,50.9505878,Venloer Straße / Gürtel,,,0,,1
+11710,0,,,,6.9399965,50.9405732,Friesenplatz,,,0,,1
+18001,0,,,,6.9969739,50.9357743,Köln Trimbornstraße,,,0,,1
+14479,0,,,,6.888488,50.9847433,Sparkasse Am Butzweilerhof,,,0,,1
+12713,0,,,,6.9990644,50.8759675,Michaelshoven,,,0,,1
+12712,0,,,,6.9946362,50.8833367,Siegstraße,,,,,1
+85410,0,,,,7.0106282,50.8036648,Urfeld,,,,,1
+85112,0,,,,6.9709365,50.8314607,Wesseling Nord,,,0,,1
+17613,0,,,,7.0490025,50.8660735,Zündorf,,,,,1
