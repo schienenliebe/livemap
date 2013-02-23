@@ -18,7 +18,7 @@
 	top: 0;
 	}
 .leaflet-container {
-	overflow: hidden;
+	/*overflow: hidden;*/
 	-ms-touch-action: none;
 	}
 .leaflet-tile,
@@ -74,7 +74,7 @@
 	pointer-events: none;
 	}
 .leaflet-top {
-	top: 0;
+	top: 40;
 	}
 .leaflet-right {
 	right: 0;

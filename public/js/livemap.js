@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
 	var bgUrl = 'http://{s}.www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png';
-	var bgAttribution = '<a href="http://www.schinenliebe.de">Schinenliebe.de</a>, Map data &copy; 2013 OpenStreetMap contributors';
+	var bgAttribution = '<a href="http://www.schienenliebe.de">Schinenliebe.de</a>, Map data &copy; 2013 OpenStreetMap contributors';
 	var bg = new 	L.TileLayer(
 		bgUrl, {
 		maxZoom : 18,
@@ -9,12 +9,12 @@ $(document).ready(function(){
 	});
 
 	var map = new L.Map('map', {
-		center : new L.LatLng(48.399976,9.995399),
+		center : new L.LatLng(50.937531,6.960279),
 		zoom : 13,
 		layers : [ bg ],
-		zoomControl : false
+		zoomControl : true
 	});
-	
+
 	var StationIcon = L.Icon.extend({options:{
 	    iconUrl: 'images/station_22x22.png',
 	    shadowUrl: null,
