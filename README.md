@@ -1,10 +1,10 @@
 # LiveMap
-### Real-time visualization of public transportation in the City of Ulm, Germany.
+### Real-time visualization of public transportation in the City of Cologne, Germany.
 
 
 ## What is this?
 
-This application visualizes public transportation vehicles moving through the City of Ulm, Germany. Since the transport authority does not provide a useable data feed, we decided to scrape the timetable data and converted them into the GTFS format. We then implemented a simple GTFS parser which emulates the emission of real time event information (though it's based on the static data we liberated from their timetable prison. We hope to eventually switch the backend event emitter to realtime data in the future. If anybody out there knows someone working at the Stadtwerke Ulm, please prod them a little *nudge nudge*). The events emitted by the GTFS parser are consumed by the web application, which renders a map and moves markers according to the estimated location of each vehicle.
+This application visualizes public transportation vehicles moving through the City of Cologne, Germany. Since the transport authority does not provide a useable data feed,[ulmapi.de](http://ulmapi.de) decided to scrape the timetable data and converted them into the GTFS format. [ulmapi.de](http://ulmapi.de) then implemented a simple GTFS parser which emulates the emission of real time event information (though it's based on the static data [ulmapi.de](http://ulmapi.de) liberated from their timetable prison. [ulmapi.de](http://ulmapi.de) hope to eventually switch the backend event emitter to realtime data in the future. If anybody out there knows someone working at the Stadtwerke Ulm, please prod them a little *nudge nudge*). The events emitted by the GTFS parser are consumed by the web application, which renders a map and moves markers according to the estimated location of each vehicle.
 
 
 ## Why?
