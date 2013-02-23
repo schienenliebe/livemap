@@ -3,7 +3,7 @@ $(document).ready(function(){
 	var bgUrl = 'http://{s}.www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png';
 	var bgAttribution = '<a href="http://www.schinenliebe.de">Schinenliebe.de</a>, Map data &copy; 2013 OpenStreetMap contributors';
 	var bg = new 	L.TileLayer(
-		cloudmadeUrl, {
+		bgUrl, {
 		maxZoom : 18,
 		attribution : bgAttribution
 	});
