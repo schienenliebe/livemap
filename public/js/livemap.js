@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
 	var bgUrl = 'http://{s}.www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png';
-	var bgAttribution = '<a href="http://www.schienenliebe.de">Schinenliebe.de</a>, Map data &copy; 2013 OpenStreetMap contributors';
+	var bgAttribution = '<a href="http://www.schienenliebe.de">Schienenliebe.de</a>, Map data &copy; 2013 OpenStreetMap contributors';
 	var bg = new 	L.TileLayer(
 		bgUrl, {
 		maxZoom : 18,
